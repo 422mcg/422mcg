@@ -1,6 +1,6 @@
 # Grace M. 
 
-Student at Imperial College London.
+Physics with Theoretical Physics student at Imperial College London.
 
 I'm interested in machine learning, data science and quantitative finance, and I'm building projects in predictive modelling, data analysis and Python software development.
 
@@ -20,7 +20,7 @@ Python Task Manager
 
 Python • pandas • NumPy • scikit-learn • Matplotlib • SQLite • Git
 
-## Currently studying
+## Current focus
 
 - Machine Learning
 - Deep Learning
