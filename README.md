@@ -2,7 +2,7 @@
 
 Physics with Theoretical Physics student at Imperial College London.
 
-I'm interested in machine learning, data science and quantitative finance, and I'm building projects in predictive modelling, data analysis and Python software development.
+Interested in machine learning, scientific computing and quantitative finance. Currently building Python projects in data science, predictive modelling and numerical simulation
 
 ## Featured projects
 
