@@ -6,15 +6,15 @@ I'm interested in machine learning, data science and quantitative finance, and I
 
 ## Featured projects
 
-Ames House Price Prediction
-
-Handwritten Digit Classification
-
-Automobile Data Analysis
-
-Ebookstore Database
-
-Python Task Manager
+- **Optical Ray Tracer** – Object-oriented simulation of light propagation through optical systems with lens modelling, optimisation and aberration analysis.
+  
+- **Ames House Price Prediction** – Machine learning regression model for predicting house prices using feature engineering and model evaluation.
+  
+- **Handwritten Digit Classification** – Multiclass image classification using scikit-learn with confusion matrix analysis.
+  
+- **Ebookstore Database** – SQLite-based command-line application implementing CRUD operations and relational database design.
+  
+- **Task Manager** – Multi-user task management system with file persistence and reporting.
 
 ## Technologies
 
