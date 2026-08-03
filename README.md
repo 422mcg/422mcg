@@ -6,6 +6,8 @@ Interested in machine learning, scientific computing and quantitative finance. C
 
 ## Featured projects
 
+- **Telco Customer Churn Prediction** - End-to-end machine learning pipeline for predicting telecom customer churn using Python and scikit-learn.
+
 - **Optical Ray Tracer** – Object-oriented simulation of light propagation through optical systems with lens modelling, optimisation and aberration analysis.
   
 - **Ames House Price Prediction** – Machine learning regression model for predicting house prices using feature engineering and model evaluation.
