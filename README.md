@@ -10,7 +10,7 @@ Interested in machine learning, scientific computing and quantitative finance. C
   
 - **Ames House Price Prediction** – Machine learning regression model for predicting house prices using feature engineering and model evaluation.
   
-- **Handwritten Digit Classification** – Multiclass image classification using scikit-learn with confusion matrix analysis.
+- **Handwritten Digit Classification** – Multiclass image classification using scikit-learn with model evaluation and confusion matrix analysis.
   
 - **Ebookstore Database** – SQLite-based command-line application implementing CRUD operations and relational database design.
   
@@ -18,10 +18,10 @@ Interested in machine learning, scientific computing and quantitative finance. C
 
 ## Technologies
 
-Python • pandas • NumPy • scikit-learn • Matplotlib • SQLite • Git
+Python • NumPy • pandas • SciPy • scikit-learn • Matplotlib • SQLite • Git
 
 ## Current focus
 
 - Machine Learning
-- Deep Learning
-- Financial Modelling
+- Quantitative Finance
+- Scientific Computing
