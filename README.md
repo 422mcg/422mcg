@@ -20,7 +20,7 @@ Python Task Manager
 
 Python • pandas • NumPy • scikit-learn • Matplotlib • SQLite • Git
 
-## Currently learning
+## Currently studying
 
 - Machine Learning
 - Deep Learning
